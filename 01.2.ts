@@ -167,3 +167,5 @@ const timesWindowsIncreased = windows(3, input).reduce(
   },
   0
 );
+
+export {};

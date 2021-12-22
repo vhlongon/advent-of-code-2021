@@ -156,3 +156,5 @@ const increasedTimes = input.reduce(
   (acc, curr, index, arr) => (curr > arr[index - 1] ? acc + 1 : acc),
   0
 );
+
+export {};
